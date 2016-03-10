@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blogrow\n"
+"POT-Creation-Date: 2015-05-09 17:26+0100\n"
+"PO-Revision-Date: 2016-02-14 15:10+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:13
+msgid ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
+msgstr ""
+"Нет такой страницы! Возможно, Вы ошиблись в наборе или Вам дали не верную "
+"ссылку. Проверьте адрес или воспользуйтесь поиском."
+
+#: ../comments.php:7
+msgid "No Responses"
+msgstr "Нет комментариев"
+
+#: ../comments.php:7
+msgid "1 Response"
+msgstr "1 Комментарий"
+
+#: ../comments.php:7
+msgid "% Responses"
+msgstr "% Комментарии"
+
+#: ../comments.php:10
+msgid "Comments"
+msgstr "Комментарии"
+
+#: ../comments.php:11
+msgid "Pingbacks"
+msgstr ""
+
+#: ../content.php:19
+msgid "Continue reading..."
+msgstr "Читать далее…"
+
+#: ../content.php:25
+msgid "by"
+msgstr "от"
+
+#: ../footer.php:60
+msgid "All Rights Reserved."
+msgstr "Все права защищены."
+
+#: ../footer.php:66
+msgid "Powered by"
+msgstr ""
+
+#: ../footer.php:66
+msgid "Theme by"
+msgstr ""
+
+#: ../search.php:9
+msgid "For the term"
+msgstr ""
+
+#: ../search.php:11
+msgid "Please try another search:"
+msgstr "Хотите воспользоваться поиском еще раз?"
+
+#: ../searchform.php:3
+msgid "To search type and hit enter"
+msgstr "Введите фразу и нажмите Enter..."
+
+#: ../single.php:22
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: ../single.php:24
+msgid "Tags:"
+msgstr "Теги:"
+
+#: ../functions/widgets/alx-tabs.php:27
+msgid "Recent Posts"
+msgstr "Свежее"
+
+#: ../functions/widgets/alx-tabs.php:28
+msgid "Popular Posts"
+msgstr "Популярное"
+
+#: ../functions/widgets/alx-tabs.php:29
+msgid "Recent Comments"
+msgstr "Комментарии"
+
+#: ../functions/widgets/alx-tabs.php:30
+msgid "Tags"
+msgstr "Метки"
+
+#: ../functions/widgets/alx-tabs.php:187
+msgid "says:"
+msgstr "говорит:"
+
+#: ../inc/page-title.php:17
+msgid "Search result"
+msgstr "Результат поиска"
+
+#: ../inc/page-title.php:19
+msgid "Search results"
+msgstr "Результаты поиска"
+
+#: ../inc/page-title.php:25
+msgid "Error 404."
+msgstr "Ошибка 404."
+
+#: ../inc/page-title.php:25
+msgid "Page not found!"
+msgstr "Страница не найдена"
+
+#: ../inc/page-title.php:29
+msgid "Author:"
+msgstr "Автор:"
+
+#: ../inc/page-title.php:32
+msgid "Category:"
+msgstr "Категория: "
+
+#: ../inc/page-title.php:35
+msgid "Tagged:"
+msgstr "Метки:"
+
+#: ../inc/page-title.php:38
+msgid "Daily Archive:"
+msgstr "День:"
+
+#: ../inc/page-title.php:41
+msgid "Monthly Archive:"
+msgstr "Месяц:"
+
+#: ../inc/page-title.php:44
+msgid "Yearly Archive:"
+msgstr "Год:"
+
+#: ../inc/page-title.php:47 ../inc/page-title.php:49 ../inc/page-title.php:51
+#: ../inc/page-title.php:53 ../inc/page-title.php:55 ../inc/page-title.php:57
+#: ../inc/page-title.php:59 ../inc/page-title.php:61 ../inc/page-title.php:63
+msgid "Type:"
+msgstr "Тип:"
+
+#: ../inc/page-title.php:47
+msgid "Audio"
+msgstr "Аудио"
+
+#: ../inc/page-title.php:49
+msgid "Aside"
+msgstr ""
+
+#: ../inc/page-title.php:51
+msgid "Chat"
+msgstr "Чат"
+
+#: ../inc/page-title.php:53
+msgid "Gallery"
+msgstr "Галерея"
+
+#: ../inc/page-title.php:55
+msgid "Image"
+msgstr "Изображение"
+
+#: ../inc/page-title.php:57
+msgid "Link"
+msgstr "Ссылку"
+
+#: ../inc/page-title.php:59
+msgid "Quote"
+msgstr "Цитата"
+
+#: ../inc/page-title.php:61
+msgid "Status"
+msgstr "Статус"
+
+#: ../inc/page-title.php:63
+msgid "Video"
+msgstr "Видео"
+
+#: ../inc/post-nav.php:3
+msgid "Next post"
+msgstr "Следующая запись"
+
+#: ../inc/post-nav.php:4
+msgid "Previous post"
+msgstr "Предыдущая запись"
+
+#: ../inc/related-posts.php:6
+msgid "You may also like"
+msgstr "Вам понравиться"

@@ -1,0 +1,2 @@
+Pro Blogg beautiful and simple blog theme with a blogger in mind. With clean and modern design and aesthetic feel, showcase your content in an contemporary timeless style. Make your images stand out and focus on your content. With clean and elegant lines and fully responsive slider. Pro Blogg give you full power to customize and visually impress your audience. With SEO friendly design and mobile friendly layout, your blog will stand out.
+Dual licensed under MIT and GPL. All Images are: GPL https://unsplash.com/ 
